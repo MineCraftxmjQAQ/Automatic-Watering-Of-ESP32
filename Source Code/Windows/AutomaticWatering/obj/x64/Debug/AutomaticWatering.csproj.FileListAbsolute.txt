@@ -1,0 +1,309 @@
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.pdb
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.xml
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\chrome_100_percent.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\chrome_200_percent.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\chrome_elf.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\d3dcompiler_47.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\dxcompiler.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\dxil.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\icudtl.dat
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\libcef.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\libEGL.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\libGLESv2.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\resources.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\snapshot_blob.bin
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\v8_context_snapshot.bin
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\vk_swiftshader.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\vk_swiftshader_icd.json
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\vulkan-1.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\af.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\am.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ar.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\bg.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\bn.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ca.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\cs.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\da.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\de.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\el.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\en-GB.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\en-US.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\es-419.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\es.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\et.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\fa.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\fi.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\fil.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\fr.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\gu.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\he.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\hi.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\hr.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\hu.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\id.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\it.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ja.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\kn.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ko.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\lt.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\lv.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ml.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\mr.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ms.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\nb.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\nl.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\pl.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\pt-BR.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\pt-PT.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ro.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ru.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\sk.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\sl.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\sr.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\sv.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\sw.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ta.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\te.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\th.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\tr.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\uk.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\ur.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\vi.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\zh-CN.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\locales\zh-TW.pak
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe.config
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe.manifest
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\AutomaticWatering.application
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\AutomaticWatering.pdb
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.Core.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.dll
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.pdb
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.xml
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.Core.pdb
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.Core.xml
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.pdb
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.xml
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Form1.resources
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Form2.resources
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Properties.Resources.resources
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.exe.manifest
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.application
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\Automati.D7568FE2.Up2Date
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.exe
+D:\Documents\Visual Studio 2022\Source\AutomaticWatering\obj\x64\Debug\AutomaticWatering.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.xml
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\chrome_100_percent.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\chrome_200_percent.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\chrome_elf.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\d3dcompiler_47.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\dxcompiler.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\dxil.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\icudtl.dat
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\libcef.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\libEGL.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\libGLESv2.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\resources.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\snapshot_blob.bin
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\v8_context_snapshot.bin
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\vk_swiftshader.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\vk_swiftshader_icd.json
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\vulkan-1.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\af.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\am.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ar.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\bg.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\bn.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ca.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\cs.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\da.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\de.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\el.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\en-GB.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\en-US.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\es-419.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\es.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\et.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\fa.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\fi.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\fil.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\fr.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\gu.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\he.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\hi.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\hr.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\hu.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\id.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\it.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ja.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\kn.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ko.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\lt.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\lv.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ml.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\mr.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ms.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\nb.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\nl.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\pl.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\pt-BR.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\pt-PT.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ro.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ru.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\sk.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\sl.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\sr.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\sv.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\sw.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ta.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\te.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\th.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\tr.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\uk.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\ur.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\vi.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\zh-CN.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\locales\zh-TW.pak
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe.config
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe.manifest
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\AutomaticWatering.application
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\AutomaticWatering.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.xml
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.Core.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.pdb
+C:\Users\19603\Desktop\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.AssemblyReference.cache
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Form1.resources
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Form2.resources
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Properties.Resources.resources
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.GenerateResource.cache
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.CoreCompileInputs.cache
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.exe.manifest
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.application
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\Automati.D7568FE2.Up2Date
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.exe
+C:\Users\19603\Desktop\AutomaticWatering\obj\x64\Debug\AutomaticWatering.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.Core.Runtime.xml
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\chrome_100_percent.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\chrome_200_percent.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\chrome_elf.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\d3dcompiler_47.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\dxcompiler.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\dxil.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\icudtl.dat
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\libcef.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\libEGL.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\libGLESv2.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\resources.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\snapshot_blob.bin
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\v8_context_snapshot.bin
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\vk_swiftshader.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\vk_swiftshader_icd.json
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\vulkan-1.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\af.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\am.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ar.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\bg.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\bn.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ca.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\cs.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\da.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\de.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\el.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\en-GB.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\en-US.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\es-419.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\es.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\et.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\fa.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\fi.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\fil.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\fr.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\gu.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\he.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\hi.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\hr.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\hu.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\id.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\it.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ja.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\kn.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ko.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\lt.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\lv.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ml.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\mr.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ms.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\nb.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\nl.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\pl.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\pt-BR.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\pt-PT.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ro.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ru.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\sk.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\sl.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\sr.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\sv.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\sw.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ta.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\te.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\th.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\tr.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\uk.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\ur.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\vi.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\zh-CN.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\locales\zh-TW.pak
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe.config
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe.manifest
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\AutomaticWatering.application
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\AutomaticWatering.exe
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\AutomaticWatering.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.xml
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.Core.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.pdb
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.AssemblyReference.cache
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Form1.resources
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Form2.resources
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.Properties.Resources.resources
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.GenerateResource.cache
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.csproj.CoreCompileInputs.cache
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.exe.manifest
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.application
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\Automati.D7568FE2.Up2Date
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.exe
+C:\Users\19603\Desktop\Automatic-Watering(Windows-Fin)\Project\AutomaticWatering\obj\x64\Debug\AutomaticWatering.pdb
